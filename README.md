@@ -260,15 +260,9 @@ AWS_UI/
 - **Stop Instance**: Stop selected running instances
 - **Refresh**: Reload instance data
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: EC2 Instances tab showing instance list with running/stopped status]
-```
+*EC2 Instances tab showing instance list with running/stopped status*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: EC2 instance start/stop operation in progress]
-```
+![EC2 Instances Tab](screenshots/ec2-instances-tab.png)
 
 ### ❄ RDS Instances
 
@@ -285,15 +279,9 @@ AWS_UI/
 - **Stop Instance**: Stop selected running instances
 - **Refresh**: Reload instance data
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: RDS Instances tab showing database instances with status]
-```
+*RDS Instances tab showing database instances with status*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: RDS instance start/stop confirmation dialog]
-```
+![RDS Instances Tab](screenshots/rds-instances-tab.png)
 
 ### ⚙ CodePipelines
 
