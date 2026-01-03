@@ -1,0 +1,25 @@
+# AWS Services Manager - Python Dependencies
+
+# AWS SDK for Python
+boto3>=1.26.0
+
+# Clipboard operations
+pyperclip>=1.8.2
+
+# Note: The following are Python standard library modules and don't need to be installed:
+# - tkinter (GUI framework - may require python3-tk on Linux)
+# - threading
+# - json
+# - time
+# - subprocess
+# - os
+# - datetime
+# - queue
+# - re
+# - functools
+# - webbrowser
+# - concurrent.futures
+
+# Installation Instructions:
+# pip install -r requirements.txt
+
