@@ -230,19 +230,19 @@ AWS_UI/
 
 *ECS cluster right click menu*
 
-![ECS Clusters Tab](screenshots/right-click-menu.png)
+![ECS Right Click Menu](screenshots/right-click-menu.png)
 
 *ECS Services window showing services with checkboxes for bulk operations*
 
-![ECS Clusters Tab](screenshots/multi-service-operations.png)
+![ECS Multi Service Operations](screenshots/multi-service-operations.png)
 
 *ECS Container Images window showing image details*
 
-![ECS Clusters Tab](screenshots/show-images-feature.png)
+![ECS Container Images](screenshots/show-images-feature.png)
 
 *ECS CPU/Memory Configuration window*
 
-![ECS Clusters Tab](screenshots/cpu-memory-config-feature.png)
+![ECS CPU Memory Config](screenshots/cpu-memory-config-feature.png)
 
 
 ### ★ EC2 Instances
@@ -302,25 +302,25 @@ AWS_UI/
 - **Copy Link**: Copy pipeline or repository URL
 - **Open in Console**: Launch AWS Console for the pipeline
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: CodePipelines tab showing pipeline list with status]
-```
+*CodePipelines tab showing pipeline list with status*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Pipeline JSON viewer window]
-```
+![CodePipeline Tab](screenshots/codepipelines-tab.png)
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Update Pipeline Environment Variables dialog]
-```
+*Pipeline JSON viewer window*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Duplicate Pipeline dialog]
-```
+![Pipeline JSON Viewer](screenshots/edit-codepipeline-json.png)
+
+*Update Pipeline Environment Variables dialog*
+
+![Pipeline Environment Variables 1](screenshots/edit-pipeline-env-1.png)
+
+![Pipeline Environment Variables 2](screenshots/edit-pipeline-env-2.png)
+
+*Duplicate Pipeline dialog*
+
+![Duplicate Pipeline 1](screenshots/duplicate-pipeline-1.png)
+
+![Duplicate Pipeline 2](screenshots/duplicate-pipeline-2.png)
 
 ### 🔨 CodeBuild Projects
 
@@ -340,20 +340,13 @@ AWS_UI/
 - **Copy Link**: Copy project URL
 - **Open in Console**: Launch AWS Console for the project
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: CodeBuild Projects tab showing project list]
-```
+*CodeBuild Projects tab showing project list*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: CodeBuild Project JSON viewer]
-```
+![CodeBuild Projects Tab](screenshots/codebuild-projects-tab.png)
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Update CodeBuild Project Environment Variables dialog]
-```
+*CodeBuild Project JSON viewer*
+
+![CodeBuild Project JSON Viewer](screenshots/update-codebuild-project.png)
 
 ### 📚 CodeCommit Repositories
 
@@ -370,57 +363,15 @@ AWS_UI/
 - **Copy SSH URL**: Copy SSH clone URL
 - **Open in Console**: Launch AWS Console for the repository
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: CodeCommit Repositories tab showing repository list]
-```
+*CodeCommit Repositories tab showing repository list*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: CodeCommit repository context menu with copy options]
-```
-
-## 📸 Screenshots
-
-### Main Application Window
-
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Main application window showing all tabs with color-coded backgrounds]
-```
+![CodeCommit Repositories Tab](screenshots/codecommit-repo-tab.png)
 
 ### Tab Management
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Right-click context menu on tabs showing duplicate and close options]
-```
+*Right-click context menu on tabs showing duplicate and close options*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Multiple duplicated tabs for the same service]
-```
-
-### Search and Filter
-
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Search functionality filtering resources in real-time]
-```
-
-### Progress Indicators
-
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Progress bar showing resource loading progress]
-```
-
-### Status Messages
-
-**Screenshot Placeholder:**
-```
-[Insert screenshot: Status message popup showing operation completion]
-```
+![Tab Management](screenshots/duplicate-and-close-tab.png)
 
 ## 🔍 Troubleshooting
 
