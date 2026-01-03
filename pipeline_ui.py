@@ -54,13 +54,13 @@ class PipelineManagerApp:
 
         # Profile input with default 'admin' value
         ttk.Label(config_frame, text="Profile Name:").pack(side="left")
-        self.profile_var = tk.StringVar(value="admin")  # Default value set to 'admin'
+        self.profile_var = tk.StringVar(value="")
         profile_entry = ttk.Entry(config_frame, textvariable=self.profile_var)
         profile_entry.pack(side="left", padx=5)
 
         # Region input with default 'ap-southeast-2' value
         ttk.Label(config_frame, text="Region(s):").pack(side="left")
-        self.region_var = tk.StringVar(value="ap-southeast-2")  # Default value set to 'ap-southeast-2'
+        self.region_var = tk.StringVar(value="")
         region_entry = ttk.Entry(config_frame, textvariable=self.region_var, width=30)
         region_entry.pack(side="left", padx=5)
 

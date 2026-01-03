@@ -22,13 +22,13 @@ class RDSManagerApp:
 
         # Profile input
         ttk.Label(input_frame, text="Profile Name:").pack(side="left")
-        self.rds_profile_var = tk.StringVar(value="datamesh")
+        self.rds_profile_var = tk.StringVar(value="")
         profile_entry = ttk.Entry(input_frame, textvariable=self.rds_profile_var)
         profile_entry.pack(side="left", padx=5)
         
         # Region input
         ttk.Label(input_frame, text="Region(s):").pack(side="left")
-        self.rds_region_var = tk.StringVar(value="ap-southeast-2,us-east-1,us-west-2")
+        self.rds_region_var = tk.StringVar(value="")
         region_entry = ttk.Entry(input_frame, textvariable=self.rds_region_var, width=35)
         region_entry.pack(side="left", padx=5)
         

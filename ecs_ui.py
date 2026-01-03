@@ -57,8 +57,8 @@ class ECSManagerApp:
 
 
         # Variables
-        self.profile_var = tk.StringVar(value="datamesh")
-        self.region_var = tk.StringVar(value="ap-southeast-2,us-east-1,us-west-2")
+        self.profile_var = tk.StringVar(value="")
+        self.region_var = tk.StringVar(value="")
         self.selected_cluster = None
         self.clusters_data = {}
 

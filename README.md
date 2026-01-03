@@ -152,11 +152,7 @@ The application window should open successfully.
    aws sso login --profile <profile-name>
    ```
 
-3. **Default Profile**: The application uses default profile names:
-   - ECS, EC2, RDS: `datamesh`
-   - CodePipeline, CodeBuild, CodeCommit: `admin`
-
-   You can change these in the application's configuration fields.
+3. **AWS Profile**: Enter your AWS profile name in the application's configuration fields. The profile must be configured in your AWS CLI.
 
 ### Region Configuration
 
