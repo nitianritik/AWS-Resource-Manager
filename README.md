@@ -223,10 +223,9 @@ AWS_UI/
 - **Show Images**: View container images
 - **Show CPU Memory Config**: View and edit service configurations
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: ECS Clusters tab showing cluster list with status indicators]
-```
+![ECS Clusters Tab](screenshots/ecs-clusters-tab.png)
+
+*ECS Clusters tab showing cluster list with status indicators*
 
 **Screenshot Placeholder:**
 ```
