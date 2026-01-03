@@ -223,24 +223,27 @@ AWS_UI/
 - **Show Images**: View container images
 - **Show CPU Memory Config**: View and edit service configurations
 
-![ECS Clusters Tab](screenshots/ecs-clusters-tab.png)
 
 *ECS Clusters tab showing cluster list with status indicators*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: ECS Services window showing services with checkboxes for bulk operations]
-```
+![ECS Clusters Tab](screenshots/ecs-clusters-tab.png)
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: ECS Container Images window showing image details]
-```
+*ECS cluster right click menu*
 
-**Screenshot Placeholder:**
-```
-[Insert screenshot: ECS CPU/Memory Configuration window]
-```
+![ECS Clusters Tab](screenshots/right-click-menu.png)
+
+*ECS Services window showing services with checkboxes for bulk operations*
+
+![ECS Clusters Tab](screenshots/multi-service-operations.png)
+
+*ECS Container Images window showing image details*
+
+![ECS Clusters Tab](screenshots/show-images-feature.png)
+
+*ECS CPU/Memory Configuration window*
+
+![ECS Clusters Tab](screenshots/cpu-memory-config-feature.png)
+
 
 ### ★ EC2 Instances
 
