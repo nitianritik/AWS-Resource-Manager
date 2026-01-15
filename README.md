@@ -460,13 +460,9 @@ Contributions are welcome! If you'd like to contribute:
 4. Make your changes
 5. Test with different AWS profiles and regions
 
-## 📝 License
-
-[Specify your license here]
-
 ## 👥 Authors
 
-[Add author information]
+Ritik Kadole
 
 ## 🙏 Acknowledgments
 
